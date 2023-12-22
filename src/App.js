@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+//  Isso é uma regra do Next: "import './css/1.integração1.css'" para que não Haja problemas na Importação
 
 function App() {
   return (
